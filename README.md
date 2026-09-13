@@ -29,15 +29,18 @@ The board includes:
 
 ### Schematic
 
-Add your schematic image here.
+
+<img width="1441" height="781" alt="Screenshot 2026-09-13 175106" src="https://github.com/user-attachments/assets/9bd7f989-d828-44a0-a533-fc272aa1cd14" />
 
 ### PCB Layout
 
-Add your PCB layout image here.
+<img width="758" height="856" alt="Screenshot 2026-09-13 175144" src="https://github.com/user-attachments/assets/5a6af25d-1641-4857-89e4-876dbc2d0088" />
+
 
 ### 3D View
 
-Add your 3D PCB image here.
+<img width="928" height="943" alt="Screenshot 2026-09-13 175219" src="https://github.com/user-attachments/assets/5147a14c-6916-4006-ac74-f4afab4017ea" />
+
 
 ## Design Features
 
