@@ -30,16 +30,16 @@ The board includes:
 ### Schematic
 
 
-<img width="1441" height="781" alt="Screenshot 2026-09-13 175106" src="https://github.com/user-attachments/assets/9bd7f989-d828-44a0-a533-fc272aa1cd14" />
+<img width="1000" height="500" alt="Screenshot 2026-09-13 175106" src="https://github.com/user-attachments/assets/9bd7f989-d828-44a0-a533-fc272aa1cd14" />
 
 ### PCB Layout
 
-<img width="758" height="856" alt="Screenshot 2026-09-13 175144" src="https://github.com/user-attachments/assets/5a6af25d-1641-4857-89e4-876dbc2d0088" />
+<img width="400" height="500" alt="Screenshot 2026-09-13 175144" src="https://github.com/user-attachments/assets/5a6af25d-1641-4857-89e4-876dbc2d0088" />
 
 
 ### 3D View
 
-<img width="928" height="943" alt="Screenshot 2026-09-13 175219" src="https://github.com/user-attachments/assets/5147a14c-6916-4006-ac74-f4afab4017ea" />
+<img width="500" height="515" alt="Screenshot 2026-09-13 175219" src="https://github.com/user-attachments/assets/5147a14c-6916-4006-ac74-f4afab4017ea" />
 
 
 ## Design Features
