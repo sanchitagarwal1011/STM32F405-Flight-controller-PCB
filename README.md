@@ -2,11 +2,11 @@
 
 # 
 
-# A custom flight controller PCB designed in \*\*KiCad\*\* using the \*\*STM32F405\*\* microcontroller.
+# A custom flight controller PCB designed in \*\*KiCad 10\*\* using the \*\*STM32F405\*\* microcontroller.
 
 # 
 
-# This project is being developed as a practical learning project in embedded systems, PCB design, and drone flight-control electronics.
+# This project is a practical learning project focused on embedded systems, PCB design, and drone electronics.
 
 # 
 
@@ -14,7 +14,7 @@
 
 # 
 
-# The board is designed around the STM32F405 microcontroller and includes:
+# The board includes:
 
 # 
 
@@ -34,7 +34,7 @@
 
 # \* Reset and boot controls
 
-# \* Decoupling and power-filtering circuits
+# \* Power filtering and decoupling capacitors
 
 # 
 
@@ -44,11 +44,39 @@
 
 # \* KiCad 10
 
-# \* STM32CubeIDE / Embedded C
+# \* Embedded C
 
-# \* Git and GitHub
+# \* Git
+
+# \* GitHub
 
 # 
+
+# \## PCB Design
+
+# 
+
+# \### Schematic
+
+# 
+
+# Add your schematic image here.
+
+# 
+
+# \### PCB Layout
+
+# 
+
+# Add your PCB layout image here.
+
+# 
+
+# \### 3D View
+
+# 
+
+# Add your 3D PCB image here.
 
 # 
 
@@ -56,19 +84,19 @@
 
 # 
 
-# \* 2-layer PCB design concept
+# \* STM32F405-based flight controller
 
 # \* Dedicated ground plane
 
 # \* Separate power and signal routing
 
-# \* Decoupling capacitors placed near IC power pins
+# \* Decoupling capacitors near IC power pins
 
-# \* IMU placed close to the main microcontroller
+# \* IMU placed close to the microcontroller
 
 # \* Power filtering for sensitive components
 
-# \* Design-rule checking using KiCad
+# \* PCB design-rule checking using KiCad
 
 # 
 
@@ -78,19 +106,21 @@
 
 # ```text
 
-# KiCad/          KiCad project files
+# Gerbers/                  Manufacturing files
 
-# Images/         Schematic, PCB and 3D-view images
+# flight\_controller\_pcb.kicad\_pro
 
-# Gerbers/        Manufacturing output files
+# flight\_controller\_pcb.kicad\_sch
 
-# Documentation/  Design notes and project information
+# flight\_controller\_pcb.kicad\_pcb
+
+# README.md
 
 # ```
 
 # 
 
-# \## Current Status
+# \## Project Status
 
 # 
 
