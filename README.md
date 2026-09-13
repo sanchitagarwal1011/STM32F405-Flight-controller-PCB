@@ -1,172 +1,75 @@
-# \# STM32F405 Flight Controller PCB
+# STM32F405 Flight Controller PCB
 
-# 
+A custom flight controller PCB designed in KiCad 10 using the STM32F405 microcontroller.
 
-# A custom flight controller PCB designed in \*\*KiCad 10\*\* using the \*\*STM32F405\*\* microcontroller.
+This project focuses on embedded systems, PCB design, and drone electronics.
 
-# 
+## Project Overview
 
-# This project is a practical learning project focused on embedded systems, PCB design, and drone electronics.
+The board includes:
 
-# 
+- STM32F405 microcontroller
+- ICM-20602 6-axis IMU
+- BMP280 barometric pressure sensor
+- AMS1117-3.3 voltage regulator
+- USB interface
+- ESC signal connections
+- RC receiver connections
+- Reset and boot controls
+- Power filtering and decoupling capacitors
 
-# \## Project Overview
+## Tools Used
 
-# 
+- KiCad 10
+- Embedded C
+- Git
+- GitHub
 
-# The board includes:
+## PCB Design
 
-# 
+### Schematic
 
-# \* STM32F405 microcontroller
+Add your schematic image here.
 
-# \* ICM-20602 6-axis IMU
+### PCB Layout
 
-# \* BMP280 barometric pressure sensor
+Add your PCB layout image here.
 
-# \* AMS1117-3.3 voltage regulator
+### 3D View
 
-# \* USB interface
+Add your 3D PCB image here.
 
-# \* ESC signal connections
+## Design Features
 
-# \* RC receiver connections
+- STM32F405-based flight controller
+- Dedicated ground plane
+- Separate power and signal routing
+- Decoupling capacitors near IC power pins
+- IMU placed close to the microcontroller
+- Power filtering for sensitive components
+- Design-rule checking using KiCad
 
-# \* Reset and boot controls
+## Project Status
 
-# \* Power filtering and decoupling capacitors
+- [x] Schematic design
+- [x] Component selection
+- [x] Footprint assignment
+- [x] PCB placement
+- [x] PCB routing
+- [x] Ground-zone filling
+- [x] Design-rule checking
+- [x] Gerber generation
+- [ ] PCB manufacturing
+- [ ] Hardware testing
 
-# 
+## Reference
 
-# \## Tools Used
+This project is inspired by PCB design learning material from Phil’s Lab.
 
-# 
+## Disclaimer
 
-# \* KiCad 10
+This is a learning and development project. The board has not yet been flight-tested and should not be used in a real drone.
 
-# \* Embedded C
+## Author
 
-# \* Git
-
-# \* GitHub
-
-# 
-
-# \## PCB Design
-
-# 
-
-# \### Schematic
-
-# 
-
-# Add your schematic image here.
-
-# 
-
-# \### PCB Layout
-
-# 
-
-# Add your PCB layout image here.
-
-# 
-
-# \### 3D View
-
-# 
-
-# Add your 3D PCB image here.
-
-# 
-
-# \## Design Features
-
-# 
-
-# \* STM32F405-based flight controller
-
-# \* Dedicated ground plane
-
-# \* Separate power and signal routing
-
-# \* Decoupling capacitors near IC power pins
-
-# \* IMU placed close to the microcontroller
-
-# \* Power filtering for sensitive components
-
-# \* PCB design-rule checking using KiCad
-
-# 
-
-# \## Repository Structure
-
-# 
-
-# ```text
-
-# Gerbers/                  Manufacturing files
-
-# flight\_controller\_pcb.kicad\_pro
-
-# flight\_controller\_pcb.kicad\_sch
-
-# flight\_controller\_pcb.kicad\_pcb
-
-# README.md
-
-# ```
-
-# 
-
-# \## Project Status
-
-# 
-
-# \* \[x] Schematic design
-
-# \* \[x] Component selection
-
-# \* \[x] Footprint assignment
-
-# \* \[x] PCB placement
-
-# \* \[x] PCB routing
-
-# \* \[x] Ground-zone filling
-
-# \* \[x] Design-rule checking
-
-# \* \[x] Gerber generation
-
-# \* \[ ] PCB manufacturing
-
-# \* \[ ] Hardware testing
-
-# 
-
-# \## Reference
-
-# 
-
-# This project is inspired by PCB design learning material from Phil’s Lab.
-
-# 
-
-# \## Disclaimer
-
-# 
-
-# This is a learning and development project. The board has not yet been flight-tested and should not be used in a real drone until the design has been fully verified.
-
-# 
-
-# \## Author
-
-# 
-
-# \*\*Sanchit Agarwal\*\*
-
-# 
-
+Sanchit Agarwal
