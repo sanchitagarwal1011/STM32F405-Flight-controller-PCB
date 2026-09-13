@@ -34,12 +34,12 @@ The board includes:
 
 ### PCB Layout
 
-<img width="400" height="500" alt="Screenshot 2026-09-13 175144" src="https://github.com/user-attachments/assets/5a6af25d-1641-4857-89e4-876dbc2d0088" />
+<img width="450" height="500" alt="Screenshot 2026-09-13 175144" src="https://github.com/user-attachments/assets/5a6af25d-1641-4857-89e4-876dbc2d0088" />
 
 
 ### 3D View
 
-<img width="500" height="515" alt="Screenshot 2026-09-13 175219" src="https://github.com/user-attachments/assets/5147a14c-6916-4006-ac74-f4afab4017ea" />
+<img width="525" height="515" alt="Screenshot 2026-09-13 175219" src="https://github.com/user-attachments/assets/5147a14c-6916-4006-ac74-f4afab4017ea" />
 
 
 ## Design Features
